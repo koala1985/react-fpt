@@ -1,8 +1,8 @@
 {
-  "name": "react-chatbot-kit",
-  "version": "2.2.0",
+  "name": "react-chatbot-kit-fx",
+  "version": "1.0.11",
   "homepage": "https://fredrikoseberg.github.io/react-chatbot-kit-docs/",
-  "description": "Fully customizable chatbot kit for react.",
+  "description": "Fully customizable chatbot kit for react. Fixed.",
   "main": "build/index.js",
   "types": "build/src/index.d.ts",
   "dependencies": {
